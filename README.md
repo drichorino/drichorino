@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aldrich and I am working as a software and web developer. I aspire to be really good at this field!
-- 👀 I’m interested in our universe and everything in it. I am so curious on just about anything!
+- 👋 Hey, I’m Aldrich and I am working as a software engineer! I aspire to be really good at this field!
+- 👀 I’m very curious about outer space, our universe and beyond! My child dream was to be an astronaut!
 - 📫 You can reach me on my LinkedIn profile -- linkedin.com/in/ajescudero/.
 <!---
 drichorino/drichorino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
