@@ -1,4 +1,4 @@
-- 👋 Hey, I’m Aldrich and I am working as a software engineer! I aspire to be really good at this field!
+- 👋 Hey, I’m Aldrich and I am working as a software engineer!
 - 👀 I’m very curious about outer space, our universe and beyond! My child dream was to be an astronaut!
 - 📫 You can reach me on my LinkedIn profile -- linkedin.com/in/ajescudero/.
 <!---
